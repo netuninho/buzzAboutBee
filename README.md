@@ -1,8 +1,8 @@
 <h1 align="center">BuzzAboutBee</h1>
 <p align="center">Este projeto foi desenvolvido como parte da avaliação da disciplina de Desenvolvimento Front-end no curso de Engenharia de Software.</p>
 
- Acesse o site aqui -> [AQUI](https://portfolio-alura-roan-sigma.vercel.app/index.html)
- 
+ Acesse o site aqui -> [AQUI]((https://buzz-about-bee.vercel.app)
+
 ### Tabela de conteúdos
 
 <p align="center">
